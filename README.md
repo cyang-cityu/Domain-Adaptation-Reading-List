@@ -1,2 +1,2 @@
 # Domain-Adaptation-Reading-List
-Reading List of Domain Adaptation 
+Bousmalis, Konstantinos, et al. "Domain separation networks." Advances in neural information processing systems. 2016.
